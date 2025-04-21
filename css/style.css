@@ -35,4 +35,8 @@
   h1, h2, h5 {
     color: #ff69b4;
   }
+
+  p.card-text{
+    font-color:rgb(238, 0, 0)
+  }
   
